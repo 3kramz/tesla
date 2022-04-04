@@ -6,7 +6,7 @@ import './MonthVsSell.css'
 const MonthVSell = () => {
 
     const [data]=useData('data.json')
-    console.log(data)
+    
     return (
         <div className='chart'>
        <h3>Sell - Month</h3>
