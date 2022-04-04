@@ -1,0 +1,14 @@
+.blogs{
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.ques{
+    font-size: 30px;
+    color: rgb(66, 66, 253);
+    margin: 0;
+}
+.ans{
+    font-size: 24px;
+}

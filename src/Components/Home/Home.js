@@ -1,6 +1,7 @@
 import React from 'react';
 import HomeReview from '../HomeReview/HomeReview';
 import './home.css'
+import img from './tesla-removebg-preview.png'
 
 const Home = () => {
     return (<>
@@ -13,7 +14,7 @@ const Home = () => {
 
                 </div>
                 <div className="home-img">
-                    <img src="https://tesla-cdn.thron.com/delivery/public/image/tesla/06e710a1-0428-45e9-8945-580e80d77b55/bvlatuR/std/2880x1800/MS-Performance-Hero-Desktop" alt=""/>
+                    <img src={img} alt=""/>
                 </div>
             </div>
      
