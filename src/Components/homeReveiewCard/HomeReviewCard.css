@@ -1,0 +1,17 @@
+.home-review-card{
+    border: 2px solid gray;
+    padding:5px 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.review-card-head{
+    color: rgb(43, 42, 42);
+    
+}
+.review-card-body{
+    font-size: 22px;
+    font-weight: 100;
+    color: rgb(32, 29, 29);
+    
+}

@@ -11,21 +11,21 @@
         "name": " Nabin Poudel",
         "head": "With Good Price Comes A Great Car",
         "body" :"Tesla S Model Specifications Starting price: $79,990 Range (est.) 390 miles Acceleration: 0.60 mph at 1.99s Top speed: 200 mph Max Power: 1020 hp Curl Labs",
-        "rating":4.5
+        "rating":5
       },
       {
         "id": 3,
         "name": " Armaan",
         "head": "Amazing Car with Great Features",
         "body" :"It is an amazing car and I have driven this car and my experience was amazing. It is very comfortable and has many high-tech features which make this car amazing and its styling is so cool which make it attractive and most important thing its engine which is very powerful and sounds very good. All over, I love this car.",
-        "rating":4.5
+        "rating":4.8
       },
       {
         "id": 4,
         "name": "  Jeet Sonwani",
         "head": "Insanely fast",
         "body" :"Tesla Model S is a powerful Hyper Electric car with awesome features. It beats the current super & expensive Cars like BMW, Mercedez, Lambo, etc. Insanely fast Acceleration 0-100 km at just 2.4 sec.",
-        "rating":4.5
+        "rating":4.9
       },
       {
         "id": 5,
@@ -39,6 +39,6 @@
         "name": " Venny Venny",
         "head": "All is fine but cost is very expensive.",
         "body" :"It's a really great car as it's comfort level, mileage and looks are really too great. But it's the cost is very high, Indian users could not effort much this cost.",
-        "rating":4.5
+        "rating":4
       }
 ]
