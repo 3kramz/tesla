@@ -7,7 +7,7 @@ import "./homereview.css"
 const HomeReview = () => {
     const[reviews]=useData('reviewData.json')
     const comment= reviews.slice(0,3)
-    console.log(comment)
+  
     
     return (
         <div className="review-section">
