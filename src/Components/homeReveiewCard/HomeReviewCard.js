@@ -6,7 +6,7 @@ import './HomeReviewCard.css'
 
 
 const HomeReviewCard = ({review}) => {
-    console.log(review)
+   
     return (
         <div className='home-review-card'>
             <h2 className="review-card-head">{review.head}</h2>

@@ -7,6 +7,28 @@
 }
 .review-section{
     width: 90%;
-    margin: 0 auto;
+    margin: 20px auto;
 
+}
+.btn-review{
+    text-decoration: none;
+    color:black;   
+   text-align:center;
+   width:90%;
+   margin: 10px auto;
+   margin-left: 20px;
+   margin-bottom: 20px;
+    padding:10px 50px;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 18px; 
+
+}
+
+.btn-review:hover{
+    background-color: black;
+    color: white;
+    transition: ease-in-out .4s;
 }
