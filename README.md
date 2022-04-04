@@ -1,7 +1,7 @@
-# Tesla Model  S Review Site
+# Tesla Model S Review Site
 
 
-##  List of technology are-
+##  List of technology are used-
 
 * React 
 * Rchart
@@ -20,5 +20,5 @@ This section has moved here: [https://github.com/programming-hero-web-course-4/p
 
 ### Netlify Live site
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Netlify Live site: [https://tesla-s-review.netlify.app/](https://tesla-s-review.netlify.app/)
 
