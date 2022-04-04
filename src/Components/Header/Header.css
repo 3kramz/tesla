@@ -1,0 +1,30 @@
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 20px auto;
+    height:100px;
+    border-bottom: 3px solid  rgb(209, 124, 124);
+
+
+}
+.logo, .menu{
+   text-decoration:none;
+   padding-left: 10px;
+   color: rgb(37, 35, 35);
+   font-size:24px;
+}
+.logo{
+    font-weight: 900;
+    font-size:50px;
+    color:rgb(209, 124, 124);
+}
+.logo:hover{
+    color:rgb(122, 21, 21);
+    transition: ease-in .4s;
+}
+.menu:hover{
+    color:rgb(209, 124, 124);
+     transition: ease-in .4s;
+}

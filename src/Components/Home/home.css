@@ -1,0 +1,54 @@
+.home{
+    width: 90%;
+    margin: 10px auto;
+    display:flex; 
+    align-items: center;
+}
+.data{
+    padding:10px 10px;
+    width: 60%;
+}
+
+.plaid{
+    font-weight:lighter;
+    font-size: 30px;
+    color: rgb(80, 66, 66);
+    margin: 0;
+}
+
+.beyond{
+    font-weight:900;
+    font-size: 50px;
+    color: rgb(80, 66, 66);
+    margin: 0;
+}
+
+
+.text{
+    font-size: 25px;
+    font-weight: 300;
+    color: rgb(102, 99, 99);
+}
+
+.btn-order{
+    border: none;
+    padding:10px 30px;
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 18px;
+}
+.btn-order:hover{
+    background-color: black;
+    color: white;
+    transition: ease-in-out .4s;
+}
+
+
+.home-img{
+    width:40%;
+}
+.home-img img{
+    width:100%;
+}

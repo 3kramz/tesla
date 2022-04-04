@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": " Swaroop Patil",
+      "head": "Most Powerful And Efficient.",
+      "body" :"Tesla Model S plaid is the flagship car of Tesla. I think that this car is perfect for you if you want performance as well as efficiency. I mean that no supercar with a price tag of 1.5 to 2.0 cr can give you an overall 837km per charge driving distance. And if you compare it with a 6.5 liter V10 Lamborgini, then I would definitely go with Lamborghini. So I think that it is worth buying Tesla. You are going to miss the sound of the engines. Tesla has also provided a feature of adding any sound to your car and it also means that you can add a Lamborghini V10 sound to your tesla. you should go ahead and buy it.",
+      "rating":4.5
+    },
+    {
+        "id": 2,
+        "name": " Nabin Poudel",
+        "head": "With Good Price Comes A Great Car",
+        "body" :"Tesla S Model Specifications Starting price: $79,990 Range (est.) 390 miles Acceleration: 0.60 mph at 1.99s Top speed: 200 mph Max Power: 1020 hp Curl Labs",
+        "rating":4.5
+      },
+      {
+        "id": 3,
+        "name": " Armaan",
+        "head": "Amazing Car with Great Features",
+        "body" :"It is an amazing car and I have driven this car and my experience was amazing. It is very comfortable and has many high-tech features which make this car amazing and its styling is so cool which make it attractive and most important thing its engine which is very powerful and sounds very good. All over, I love this car.",
+        "rating":4.5
+      },
+      {
+        "id": 4,
+        "name": "  Jeet Sonwani",
+        "head": "Insanely fast",
+        "body" :"Tesla Model S is a powerful Hyper Electric car with awesome features. It beats the current super & expensive Cars like BMW, Mercedez, Lambo, etc. Insanely fast Acceleration 0-100 km at just 2.4 sec.",
+        "rating":4.5
+      },
+      {
+        "id": 5,
+        "name": " Nabin Poudel",
+        "head": "With Good Price Comes A Great Car",
+        "body" :"Tesla S Model Specifications Starting price: $79,990 Range (est.) 390 miles Acceleration: 0.60 mph at 1.99s Top speed: 200 mph Max Power: 1020 hp Curl Labs",
+        "rating":4.5
+      },
+      {
+        "id": 6,
+        "name": " Venny Venny",
+        "head": "All is fine but cost is very expensive.",
+        "body" :"It's a really great car as it's comfort level, mileage and looks are really too great. But it's the cost is very high, Indian users could not effort much this cost.",
+        "rating":4.5
+      }
+]
